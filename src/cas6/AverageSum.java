@@ -14,3 +14,4 @@ public class AverageSum {
         System.out.println(average);
     }
 }
+//test
