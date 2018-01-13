@@ -4,7 +4,7 @@ import com.sun.org.apache.xpath.internal.SourceTree;
 
 import java.util.Scanner;
 
-public class dssada {
+public class Switch {
     public static void main(String[] args) {
         Scanner citac = new Scanner(System.in);
         System.out.println("Vnesi dva broja i soodvetna operacija so koja sakas da se izvrsi zadacata");
