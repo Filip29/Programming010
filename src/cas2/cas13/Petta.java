@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Petta {
     public static void main(String[] args) {
-        int[] my_array = {1,2,3,4,5,6,7};
+        int[] my_array = {1,2,3,4,5,6,7,20};
         int Index_position = 5;
         int newValue    = 8;
         System.out.println("Originalna niza : "+ Arrays.toString(my_array));
