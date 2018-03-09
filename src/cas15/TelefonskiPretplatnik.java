@@ -10,7 +10,7 @@ public class TelefonskiPretplatnik {
         for (int i = 0; i < 9; i++) {
             broj[i] = citac.nextInt();
         }
-        System.out.println(broj[0] + "" + broj[1] + "" + broj[2] + "/" + broj[3] + broj[4] + broj[5] + "-" + broj[6] + broj[7] + broj[8]);
+        System.out.println(broj[0] + "" + broj[1] + "" + broj[2] + "/" + broj[3] + broj[4] + broj[5] + " - " + broj[6] + broj[7] + broj[8]);
         if (broj[2]==0){
             System.out.println("T-Mobile");
         }if (broj[2]==1){
